@@ -17,6 +17,11 @@ To update a task, simply click on the task you wish to modify. This will enable 
 
 To mark a task as complete, click the checkmark icon next to the task description. The task will then be crossed out, showing that it has been completed.
 
+**4.Deleting a task**
+
+To delete a task, click the trash icon next to the task you wish to remove. This will immediately delete the task from your to-do list.
+
+
 
 
 
